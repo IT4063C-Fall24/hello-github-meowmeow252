@@ -26,7 +26,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 **I learned:** how to clone a repository onto my local drive, how to commit changes, and how to push changes to the remote repository so that my professor can see my edits.
 - .
 
-**I struggled with:** (repeat as needed)
+**I struggled with:** how to clone the repository as I did not know that Github already generated the link for me and I did not push my changes correctly because I tried to do it without reading the instructions.
 - .
 
 **I need the instructor to help me with:** (repeat as needed)
