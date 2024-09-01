@@ -36,8 +36,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 
 
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+**I used the following links, books, and other resources in my work:** I referenced Github docs and google.
   
-**I received help from the following people:** (repeat as needed)
+**I received help from the following people:** none.
 - . 
