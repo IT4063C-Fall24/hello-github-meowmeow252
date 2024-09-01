@@ -23,21 +23,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
+**I learned:** how to clone a repository onto my local drive, how to commit changes, and how to push changes to the remote repository so that my professor can see my edits.
 - .
 
-**I struggled with:** (repeat as needed)
+**I struggled with:** how to clone the repository as I did not know that Github already generated the link for me and I did not push my changes correctly because I tried to do it without reading the instructions.
 - .
 
-**I need the instructor to help me with:** (repeat as needed)
+**I need the instructor to help me with:** nothing as of now. I think I did everything right for this lab. But I am open to feedback on if I did do something wrong or can do something more efficiently.
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 18 out of 20.
 
 
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+**I used the following links, books, and other resources in my work:** I referenced Github docs and google.
   
-**I received help from the following people:** (repeat as needed)
+**I received help from the following people:** none.
 - . 
