@@ -32,7 +32,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 **I need the instructor to help me with:** nothing as of now. I think I did everything right for this lab. But I am open to feedback on if I did do something wrong or can do something more efficiently.
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 18 out of 20.
 
 
 ## 📚 References and Citations
