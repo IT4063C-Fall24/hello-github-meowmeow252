@@ -23,7 +23,7 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
+**I learned:** how to clone a repository onto my local drive, how to commit changes, and how to push changes to the remote repository so that my professor can see my edits.
 - .
 
 **I struggled with:** (repeat as needed)
